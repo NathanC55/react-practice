@@ -2,4 +2,4 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 // https://vite.dev/config/
-export default defineConfig({ base: "/react-practice/", plugins: [react()] });
+export default defineConfig({ base: "/react-practice/tree/main/02_01b/react-project", plugins: [react()] });
